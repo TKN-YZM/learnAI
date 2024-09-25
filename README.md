@@ -19,7 +19,7 @@ Kullanıcılar, mesajlaşmalardan istedikleri kelimeleri WordBox deposuna ekleye
 ![LearnAI Uygulama Görseli](https://github.com/TKN-YZM/learnAI/blob/main/img/1.3.jpg)
 
 ### 3. **Gramer Egzersizleri ve Testler**
-Dil bilgisi öğrenmek isteyen kullanıcılar için kapsamlı gramer egzersizleri ve testler mevcuttur. Bu bölümdeki alıştırmalar, zaman kavramları, sıfat kullanımı ve cümle yapıları gibi temel gramer konularını içerir.
+Dil bilgisi öğrenmek isteyen kullanıcılar için kapsamlı gramer egzersizleri ve testler mevcuttur. Bu bölümdeki alıştırmalar, zaman kavramları, sıfat kullanımı , paragraf soruları ve cümle yapıları gibi temel gramer konularını içerir.
 
 ![LearnAI Uygulama Görseli](https://github.com/TKN-YZM/learnAI/blob/main/img/1.4.jpg)
 
