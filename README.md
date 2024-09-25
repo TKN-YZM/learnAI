@@ -11,11 +11,12 @@
 LearnAI, kullanıcıların dil öğrenme seviyesine göre kişiselleştirilmiş öğrenme önerileri sunar. Kullanıcının seviyesini analiz eder ve ona uygun mesajlaşma yapar.
 
 
-![LearnAI Uygulama Görseli](https://github.com/TKN-YZM/learnAI/blob/main/img/1.3.jpg)
+
 
 ### 2. **Günlük Kelime ve Cümle Çalışmaları**
 Kullanıcılar her gün yeni kelimeler öğrenebilir ve bunları cümleler içinde kullanarak anlamlarını pekiştirebilirler. Uygulama, günlük olarak yeni kelime setleri sunarak öğrenmeyi dinamik tutar.
 
+![LearnAI Uygulama Görseli](https://github.com/TKN-YZM/learnAI/blob/main/img/1.3.jpg)
 
 ### 3. **Gramer Egzersizleri ve Testler**
 Dil bilgisi öğrenmek isteyen kullanıcılar için kapsamlı gramer egzersizleri ve testler mevcuttur. Bu bölümdeki alıştırmalar, zaman kavramları, sıfat kullanımı ve cümle yapıları gibi temel gramer konularını içerir.
