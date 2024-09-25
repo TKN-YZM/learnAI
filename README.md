@@ -2,10 +2,7 @@
 
 **LearnAI**, İngilizce öğrenmeyi kolaylaştıran, yapay zeka destekli bir mobil uygulamadır. Kullanıcılara günlük kelime pratikleri, gramer alıştırmaları ve konuşma becerilerini geliştirmek için interaktif özellikler sunar. Hem yeni başlayanlar hem de ileri seviyede kullanıcılar için idealdir.
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github.com/TKN-YZM/learnAI/blob/main/img/1.jpg" alt="LearnAI Uygulama Görseli 1" style="height: 300px; object-fit: cover; margin: 10px;" />
-  <img src="https://github.com/TKN-YZM/learnAI/blob/main/img/1.6.jpg" alt="LearnAI Uygulama Görseli 2" style="height: 300px; object-fit: cover; margin: 10px;" />
-</div>
+
 
 
 ## Özellikler
